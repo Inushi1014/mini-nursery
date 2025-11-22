@@ -1,0 +1,16 @@
+/* background color for the page */
+body {
+  background-color: #f4f7f6;
+}
+
+/* custom style for active list-group item */
+.list-group-item.active {
+  background-color: #e9f5ef !important;
+  color: #0b3d2e !important;
+  font-weight: 600;
+}
+
+/* smaller font-size for small inside card titles */
+.card-title small {
+  font-size: 0.85rem;
+}
